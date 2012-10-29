@@ -1,0 +1,5 @@
+# Murmur3 in LLJS
+
+[What is LLJS?](http://lljs.org/)
+
+[What is Murmur3?](http://code.google.com/p/smhasher/wiki/MurmurHash3)
